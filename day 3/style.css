@@ -1,0 +1,62 @@
+#top_navbar{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    /* To je komentar */
+    background-color: gray;
+    font-size: 18pt;
+    font-family: sans-serif;
+    width: 100%;
+    text-align: right;
+    }
+
+#top_navbar_right{
+    float: right;
+    padding-right: 10px;
+    
+
+    }
+
+#top_navbar_element li {
+     display: inline;
+    }
+
+
+#profile {
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;    
+    }    
+    
+    
+
+
+#googl_logo {
+    position: relative;
+     top: 200px;
+}
+
+#googl_logo_leftpad {
+    position: relative;
+     top: 200px;
+    }
+   
+#googl_logo_rightpad {
+    position: relative;
+     top: 200px;
+ 
+
+}
+
+#search_form {
+    position: absolute;
+        top: 800px;
+}
+
+.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
